@@ -15,5 +15,5 @@ permalink: /faq/
 * 怎么联系你?  
   * [G_FW@mail2tor.com](mailto:G_FW@mail2tor.com)  
   * 请__不要__使用国内邮箱(包括网易,腾讯,新浪等)给我发邮件,我肯定收不到,因为这种邮件还没等到发送就已经被河蟹了.(可以使用yahoo或outlook等)
-* 为什么要使用[Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/),这并不是一个很自由f的许可?
+* 为什么要使用[Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/),这并不是一个很自由的许可?
   * 为了防止厚颜无耻的天朝政府把我的成果搞乱后发布.
